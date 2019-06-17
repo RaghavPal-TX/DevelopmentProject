@@ -1,0 +1,2 @@
+tasks:
+  - command: java -cp target/test-classes/ com.tx.dev.DevProject.Test1
